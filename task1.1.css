@@ -1,0 +1,71 @@
+body
+{}
+
+#head
+{
+	text-align: center;
+	background-image: url(a.jfif);
+	background-size: cover;
+	height: 130px;
+	line-height: 100px;
+	margin: 0px;
+	font-family: Comic Sans MS;
+	border:5px solid skyblue; 
+	border-radius: 5px;
+}
+h1
+{
+	font-family: Comic Sans MS;
+}
+#forms
+{
+	text-align: center;
+	padding-top: 30px;
+	background-image: url(b.jfif);
+	background-size: cover;
+}
+option
+{
+	height: 30px; 
+	width: 300px;
+	margin-top: 30px;
+	font-family: Comic Sans MS;
+}
+input
+{
+	height: 30px; 
+	width: 300px;
+	margin-top: 30px;
+	font-family: Comic Sans MS;
+}
+h4
+{
+	font-family: Comic Sans MS;
+}
+.submit
+{
+	width: 200px;
+}
+#footer
+{
+     background-color: black;
+     height: 80px;
+     text-align: center;
+       color:white; 
+     
+}
+#footer ul li
+{
+    display: inline;
+    text-decoration: none;
+    margin: 10px;
+}
+#footer ul li a
+{
+    text-decoration: none;
+    color:white; 
+}
+#footer ul li a:hover
+{
+    text-decoration: none;   
+}

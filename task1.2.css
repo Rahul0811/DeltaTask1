@@ -1,0 +1,96 @@
+#head
+{
+	text-align: center;
+	background-image: url(a.jfif);
+	background-size: cover;
+	line-height: 100px;
+	margin: 0px;
+	font-family: Comic Sans MS;
+	border:5px solid skyblue; 
+	border-radius: 5px;
+}
+#main
+{
+	text-align: center;
+	padding-top: 30px;
+	background-image: url(b.jfif);
+	background-size: cover;
+}
+input
+{
+	margin-top: 30px;
+	width: 300px;
+	font-family: Comic Sans MS;
+	border-radius: 1px;
+	height: 25px;
+}
+button
+{
+	margin-top: 30px;
+	width: 300px;
+	font-family: Comic Sans MS;
+	border-radius: 1px;
+	height: 25px;
+}
+table
+{
+	margin-top: 20px;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	font-family: Comic Sans MS;
+	padding-bottom: 100px;
+    column-gap: normal;
+}
+td
+{
+	display: inline-block;
+}
+#footer
+{
+     background-color: black;
+     height: 80px;
+     text-align: center;
+     color:white; 
+     border-top: solid black ;     
+}
+#footer ul li
+{
+    display: inline;
+    text-decoration: none;
+    margin: 10px;
+}
+#footer ul li a
+{
+    text-decoration: none;
+    color:white; 
+}
+#footer ul li a:hover
+{
+    text-decoration: none;   
+}
+#main>p
+{
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 50px;
+	font-family: Comic Sans MS;
+	font-size: 25px;
+}
+td:nth-child(4n-1)
+{
+	margin-left:290px;
+}
+td:nth-child(4n-2)
+{
+	margin-left: 170px;
+}
+td:nth-child(4n-3)
+{
+	margin-left: 250px
+}
+td:nth-child(4n)
+{
+	margin-left: 230px;
+}
+
+
